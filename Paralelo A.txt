@@ -1,1 +1,1 @@
-Hola Mundo! Este archivo pertenece a la rama del paralelo A.
+Hola Mundo! Este archivo pertenece a la segunda rama del paralelo A.
